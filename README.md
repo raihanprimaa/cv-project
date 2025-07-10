@@ -8,3 +8,6 @@ Selain fitur pengisian data, aplikasi ini juga menyediakan tombol **"Upload Foto
    - Muhammad Fajar Hidayat 23SA31A026 ( Merancang ide dan Membuat desain tampilan)
    - Fachry Nur Ikhlas 23SA31A028 ( Membuat desain tampilan)
    - Saka Aria Gumilang 23Sa31A030 ( Merancang ide dan Membuat kode program)
+  
+3. Link Video Pengoperasian Aplikasi
+   https://drive.google.com/file/d/1LeTAHlPEwjAHuVOc9sEALtIonPiTnhzC/view?usp=sharing
